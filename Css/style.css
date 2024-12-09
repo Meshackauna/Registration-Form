@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.Registration{
+    text-align: center;
+    margin: 5px;
+    font-size: 30px;
+}
+button{
+    background-color: black;
+    color: white;
+    margin: 12px;
+    font-size: 30px;
+}
+button:hover{
+    color: blue;
+}
